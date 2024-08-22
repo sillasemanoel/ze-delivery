@@ -1,0 +1,33 @@
+.challengeOne {
+  text-align: center;
+  padding: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-list {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 500px;
+  margin: 0 auto;
+  gap: 5px;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 95px;
+  height: 100px;
+  background-color: #f0f0f0;
+  font-size: 1.5rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+.card.down {
+  background-color: #f0f0f0;
+}
+
+.card.up {
+  background-color: #fccd01;
+}
