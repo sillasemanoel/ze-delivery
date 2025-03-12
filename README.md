@@ -6,6 +6,23 @@ Este repositório contém dois desafios de codificação front-end utilizando Re
 Esses desafios têm como objetivo testar suas habilidades em desenvolvimento com React, bem como seu conhecimento sobre as features do JavaScript.  
 **O tempo dado para resolução deste dois desafios foi cerca de 60 min.**
 
+## Iniciando o projeto
+
+```bash
+# Clonar aplicação
+$ git clone https://github.com/sillasemanoel/ze-delivery.git
+
+# Acessar a aplicação
+$ cd ze-delivery
+
+# Execute npm para instalar as dependências
+$ npm install
+
+# Para iniciar a aplicação
+$ npm run dev
+
+```
+
 ## Ferramentas
 
 - React
